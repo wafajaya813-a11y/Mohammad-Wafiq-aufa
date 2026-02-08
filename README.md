@@ -115,17 +115,20 @@
     <h2>Portofolio</h2>
     <div class="card">
         <p>
-            (Silakan isi portofolio kamu sendiri di bagian ini,  
-            misalnya hasil edit foto, logo, atau karya desain lainnya.)
+            (Silakan isi 
+<section>
+    <h2>Portofolio</h2>
+    <div class="card">
+        <p>Berikut salah satu hasil karya desain logo yang pernah saya buat:</p>
+
+        <img src="logo-aufa.png" alt="Logo Karya Mohammad Wafiq Aufa"
+        style="width:100%; max-width:300px; display:block; margin:20px auto; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
+
+        <p style="text-align:center;">
+            Desain Logo Personal
         </p>
-        <ul>
-            <li>Portofolio 1</li>
-            <li>Portofolio 2</li>
-            <li>Portofolio 3</li>
-        </ul>
     </div>
 </section>
-
 <section>
     <h2>Kontak</h2>
     <div class="card">
